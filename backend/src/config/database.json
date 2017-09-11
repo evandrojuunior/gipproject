@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "node",
+    "password": "node",
+    "database": "gip_development",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "node",
+    "password": "node",
+    "database": "gip_test",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
